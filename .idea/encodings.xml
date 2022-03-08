@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/02/demos/ps-jaxb-01-intro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03/demos/ps-jaxb-02-marshalling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03/demos/ps-jaxb-02-marshalling/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03/demos/ps-jaxb-03-unmarshalling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03/demos/ps-jaxb-03-unmarshalling/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/ps-jaxb-04-anno-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/ps-jaxb-05-anno-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/ps-jaxb-06-anno-simpletypes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/ps-jaxb-07-anno-enum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/ps-jaxb-08-anno-lists-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/ps-jaxb-09-anno-lists-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/ps-jaxb-10-anno-maps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/ps-jaxb-11-anno-adapters/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/ps-jaxb-12-schemagen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/ps-jaxb-13-generateschema/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/ps-jaxb-14-xmltype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/ps-jaxb-15-required/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/ps-jaxb-16-defaultvalue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/ps-jaxb-17-nillable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/ps-jaxb-18-objectfactory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06/demos/demos/ps-jaxb-19-xjc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06/demos/demos/ps-jaxb-20-bindings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06/demos/demos/ps-jaxb-21-datetime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06/demos/demos/ps-jaxb-22-enum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07/demos/ps-jaxb-23-validation-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07/demos/ps-jaxb-24-validation-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07/demos/ps-jaxb-25-inheritance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07/demos/ps-jaxb-26-xmlany-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07/demos/ps-jaxb-27-xmlany-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07/demos/ps-jaxb-28-binder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07/demos/ps-jaxb-29-binder-moxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07/demos/ps-jaxb-29-binder-moxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/demos/demos/ps-jaxb-30-maven-schemagen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/demos/demos/ps-jaxb-31-maven-xjc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08/demos/demos/ps-jaxb-31-maven-xjc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09/demos/ps-jaxb-34-jaxws-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09/demos/ps-jaxb-35-jaxws-client/src/main/java" charset="UTF-8" />
+  </component>
+</project>

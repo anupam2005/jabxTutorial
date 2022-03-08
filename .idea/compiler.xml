@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ps-jaxb-28-binder" />
+        <module name="ps-jaxb-16-defaultvalue" />
+        <module name="ps-jaxb-24-validation-2" />
+        <module name="ps-jaxb-20-bindings" />
+        <module name="ps-jaxb-22-enum" />
+        <module name="ps-jaxb-26-xmlany-1" />
+        <module name="ps-jaxb-03-unmarshalling" />
+        <module name="ps-jaxb-29-binder-moxy" />
+        <module name="ps-jaxb-35-jaxws-client" />
+        <module name="ps-jaxb-12-schemagen" />
+        <module name="ps-jaxb-19-xjc" />
+        <module name="ps-jaxb-01-intro" />
+        <module name="ps-jaxb-30-maven-schemagen" />
+        <module name="ps-jaxb-10-anno-maps" />
+        <module name="ps-jaxb-23-validation-1" />
+        <module name="ps-jaxb-25-inheritance" />
+        <module name="ps-jaxb-11-anno-adapters" />
+        <module name="ps-jaxb-21-datetime" />
+        <module name="ps-jaxb-02-marshalling" />
+        <module name="ps-jaxb-13-generateschema" />
+        <module name="ps-jaxb-15-required" />
+        <module name="ps-jaxb-31-maven-xjc" />
+        <module name="ps-jaxb-18-objectfactory" />
+        <module name="ps-jaxb-06-anno-simpletypes" />
+        <module name="ps-jaxb-08-anno-lists-1" />
+        <module name="ps-jaxb-14-xmltype" />
+        <module name="ps-jaxb-09-anno-lists-2" />
+        <module name="ps-jaxb-04-anno-basic" />
+        <module name="ps-jaxb-27-xmlany-2" />
+        <module name="ps-jaxb-07-anno-enum" />
+        <module name="ps-jaxb-34-jaxws-server" />
+        <module name="ps-jaxb-17-nillable" />
+        <module name="ps-jaxb-05-anno-order" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

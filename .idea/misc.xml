@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02/demos/ps-jaxb-01-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/ps-jaxb-02-marshalling/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/ps-jaxb-03-unmarshalling/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/ps-jaxb-07-anno-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/ps-jaxb-10-anno-maps/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/ps-jaxb-04-anno-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/ps-jaxb-05-anno-order/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/ps-jaxb-08-anno-lists-1/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/ps-jaxb-09-anno-lists-2/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/ps-jaxb-11-anno-adapters/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/ps-jaxb-06-anno-simpletypes/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/ps-jaxb-14-xmltype/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/ps-jaxb-15-required/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/ps-jaxb-17-nillable/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/ps-jaxb-12-schemagen/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/ps-jaxb-16-defaultvalue/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/ps-jaxb-18-objectfactory/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/ps-jaxb-13-generateschema/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/demos/ps-jaxb-19-xjc/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/demos/ps-jaxb-22-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/demos/ps-jaxb-20-bindings/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/demos/ps-jaxb-21-datetime/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/ps-jaxb-28-binder/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/ps-jaxb-26-xmlany-1/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/ps-jaxb-27-xmlany-2/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/ps-jaxb-25-inheritance/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/ps-jaxb-29-binder-moxy/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/ps-jaxb-23-validation-1/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/ps-jaxb-24-validation-2/pom.xml" />
+        <option value="$PROJECT_DIR$/08/demos/demos/ps-jaxb-31-maven-xjc/pom.xml" />
+        <option value="$PROJECT_DIR$/08/demos/demos/ps-jaxb-30-maven-schemagen/pom.xml" />
+        <option value="$PROJECT_DIR$/09/demos/ps-jaxb-34-jaxws-server/pom.xml" />
+        <option value="$PROJECT_DIR$/09/demos/ps-jaxb-35-jaxws-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="12" project-jdk-type="JavaSDK" />
+</project>
